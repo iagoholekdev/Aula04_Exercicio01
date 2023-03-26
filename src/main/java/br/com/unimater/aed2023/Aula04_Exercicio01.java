@@ -18,8 +18,6 @@ public class Aula04_Exercicio01 {
            String dadosClient = "Nome do cliente: " + name + "\n Idade do Cliente: " + age;
            System.out.println(dadosClient);
        }
-
-
     }
 }
 
